@@ -14,28 +14,28 @@ function App() {
 
   let random = [{
     id: 1,
-    description: "Di si por favor",
+    description: "Deci si por favor",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 1,
-    description: "Piénsalo de nuevo.",
+    description: "Pensalo de nuevo.",
     img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
     id: 2,
-    description: "Vamos, atrévete a decir que sí.",
+    description: "no sea embolante amor.",
     img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
   },
   {
     id: 3,
-    description: "No tengas miedo, será genial.",
+    description: "confia en el noviechito.",
     img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
   },
   {
     id: 4,
-    description: "Confía en mí, será divertido.",
+    description: "va ser divertido Ivana.",
     img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
   },
   {
@@ -60,12 +60,12 @@ function App() {
   },
   {
     id: 9,
-    description: "Confía en mí.",
+    description: "dale amor.",
     img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
   },
   {
     id: 10,
-    description: "No te arrepentirás.",
+    description: " meta meta meta meta meta.",
     img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
   }]
 
